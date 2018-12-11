@@ -8,7 +8,7 @@ let companyticker=[];
 function catchError1(err, tick1) {
   $('.renderList').hide();
   $('.renderTable').hide();
-  $('.renderError').append(`<br /><p>${err.message} for ticker ${tick1.toUpperCase()}.</p>`);
+  $('.renderError').append(`<br /><p>${err.message} for ticker ${tick1.toUpperCase()}.</p><br />`);
   $('html, body').animate({scrollTop:200}, 1000);
 }
 

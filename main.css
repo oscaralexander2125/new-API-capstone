@@ -162,11 +162,11 @@ li:nth-child(even) {
 .displayError {
   position: relative;
   bottom: -78px;
-  background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45));
 }
 
 .renderError {
   text-align: center;
+  background: linear-gradient( rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45));
 }
 
 footer {

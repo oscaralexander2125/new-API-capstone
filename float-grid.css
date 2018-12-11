@@ -123,7 +123,7 @@
     padding: 0;
   }
 
-  .inputTicker1, .inputTicker2 {
+  #ticker1, #ticker2 {
     width: 115px;
   }
 
