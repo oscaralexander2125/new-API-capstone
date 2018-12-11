@@ -112,16 +112,9 @@
   .submitTickers {
     position: relative;
   }
-
-  ul {
-    background: none;
-  }
 }
 
 @media only screen and (max-width: 385px) {
-  .renderList {
-    padding: 0;
-  }
 
   #ticker1, #ticker2 {
     width: 115px;
@@ -137,9 +130,5 @@
 
   .submitTickers {
     position: relative;
-  }
-
-  ul {
-    background: none;
   }
 }

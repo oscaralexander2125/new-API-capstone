@@ -15,7 +15,7 @@ function catchError1(err, tick1) {
 function catchError2(err, tick2) {
   $('.renderList').hide();
   $('.renderTable').hide();
-  $('.renderError').append(`<br /><p>${err.message} for ticker ${tick2.toUpperCase()}.</p>`);
+  $('.renderError').append(`<br /><p>${err.message} for ticker ${tick2.toUpperCase()}.</p><br />`);
   $('html, body').animate({scrollTop:200}, 1000);
 }
 
