@@ -15,4 +15,4 @@ Company Comparer is intended for investors looking to compare company ratios. Th
 
 <h2>Screenshot</h2>
 
-![](screenshot/Screenshot 2019-05-07 16.04.35.png)
+![](screenshot/landing.png)
