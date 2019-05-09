@@ -11,6 +11,7 @@ Company Comparer is intended for investors looking to compare company ratios. Th
 <li>CSS</li>
 <li>Javascript</li>
 <li>jQuery</li>
+<li>Last10K API</li>
 </ul>
 
 <h2>Screenshot</h2>
