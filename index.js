@@ -19,6 +19,7 @@ function catchError2(err, tick2) {
   $('html, body').animate({scrollTop:200}, 1000);
 }
 
+//render ratios for mobile version
 function renderListData() {
   $('.renderList').html('');
   $('.renderList').html(`<ul>
@@ -201,8 +202,3 @@ function runApp() {
 }
 
 $(runApp);
-
-
-//https://hangouts.google.com/hangouts/_/thinkful.com/asalazar
-
-//sessions: tuesday and friday at 12pm
